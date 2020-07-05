@@ -1,0 +1,11 @@
+**/.next/
+**/node_modules/
+**/.DS_Store
+.dockerignore
+.editorconfig
+.gitignore
+.git/
+Dockerfile*
+LICENSE
+README.md
+docker-compose*

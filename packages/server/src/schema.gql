@@ -1,0 +1,23 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Property {
+  id: ID!
+  images: [String!]!
+  bedrooms: Float!
+  bathrooms: Float!
+  address: String!
+  postcode: String!
+  description: String!
+  price: Float!
+  expired: Boolean!
+}
+
+type Query {
+  properties(limit: Float!, offset: Float!): [Property!]!
+}
+
+type Mutation {
+  setExpired(expired: Boolean!, id: String!): Property!
+}

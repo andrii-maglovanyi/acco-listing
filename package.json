@@ -1,0 +1,13 @@
+{
+  "name": "acco-listing",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": "12.x"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
+  }
+}

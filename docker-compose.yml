@@ -1,0 +1,27 @@
+version: "3.7"
+
+services:
+  server:
+    build: ./packages/server
+    container_name: server
+    ports:
+      - "3000:3000"
+
+  web:
+    build: ./packages/web
+    container_name: web
+    depends_on:
+      - server
+    ports:
+      - "4000:4000"
+
+  acco-listing:
+    image: acco-listing:1.0.0
+    build: .
+    container_name: acco-listing
+    depends_on:
+      - web
+    ports:
+      - "80:80"
+    volumes:
+      - .:/www

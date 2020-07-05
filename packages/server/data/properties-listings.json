@@ -1,0 +1,92 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "images": ["104_2160.jpg", "174_2160.jpg", "191_2160.jpg"],
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "address": "136  Crescent Avenue, DRUMELZIER",
+      "postcode": "ML12 2FS",
+      "description": "Are you looking for a nice home in a green, centrally located, child-friendly environment? Then we have good news! This house on the DRUMELZIER is perfectly located and surrounded by greenery.",
+      "price": 750.0,
+      "expired": false
+    },
+    {
+      "id": "2",
+      "images": ["106_3280.jpg", "111_3280.jpg", "154_3280.jpg"],
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "address": "26  Bouverie Road, WESTON",
+      "postcode": "CW2 5JG",
+      "description": "Here is another nice starter home. Modern kitchen, toilet and bathroom. The house is stylishly finished, completely contemporary. You can go in! An interesting middle house for starters and young families. ",
+      "price": 500.0,
+      "expired": true
+    },
+    {
+      "id": "3",
+      "images": ["218_2160.jpg", "221_2160.jpg", "226_2160.jpg"],
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "address": "76  Hudson St, DUNCTON",
+      "postcode": "GU28 4LR",
+      "description": "If interested, we are happy to take the time for you! Plan an appointment via our website and we will be happy to show you the home with a maximum of 2 people. If a physical appointment does not work out well, call for digital options!",
+      "price": 1100.0,
+      "expired": true
+    },
+    {
+      "id": "4",
+      "images": ["235_3280.jpg", "251_3280.jpg", "297_3280.jpg"],
+      "bedrooms": 7,
+      "bathrooms": 3,
+      "address": "55  Thornton St, HUTTON BUSCEL",
+      "postcode": "YO13 0XR",
+      "description": "Living outside but still in the city. This detached villa with a double detached garage is situated in a very beautiful location in the popular villa district of HUTTON BUSCEL. This spacious family house was newly built in 2007 and is situated on a very spacious plot, surrounded by a beautiful and landscaped garden that offers a lot of privacy.",
+      "price": 480.0,
+      "expired": true
+    },
+    {
+      "id": "5",
+      "images": ["319_3280.jpg", "361_3280.jpg", "365_3280.jpg"],
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "address": "52  St Maurices Road, PRESTON UPON THE WEALD",
+      "postcode": "TF6 9ZG",
+      "description": "What a great house! Very attractive, full of beautiful materials and details and perfectly maintained. Spacious living room, kitchen, cellar, 3 bedrooms and bathroom on the 1st floor, attic and beautifully landscaped backyard on the South East.",
+      "price": 945.0,
+      "expired": false
+    },
+    {
+      "id": "6",
+      "images": ["361_2160.jpg", "395_2160.jpg", "369_2160.jpg"],
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "address": "50  Academy Street, BENBUIE",
+      "postcode": "DG3 3XZ",
+      "description": "Spacious, ready-to-live-in family house with bright rooms, four spacious bedrooms, modern kitchen, luxury bathroom and a sunny south-facing garden.",
+      "price": 475.0,
+      "expired": true
+    },
+    {
+      "id": "7",
+      "images": ["413_2160.jpg", "427_2160.jpg", "432_2160.jpg"],
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "address": "107  Hendford Hill, MOY",
+      "postcode": "PH33 6DW",
+      "description": "A surprisingly spacious detached house with garage located on a quiet street on the outskirts of MOY.",
+      "price": 800.0,
+      "expired": false
+    },
+    {
+      "id": "8",
+      "images": ["510_2160.jpg", "517_2160.jpg", "582_2160.jpg"],
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "address": "94  Winchester Rd",
+      "postcode": "MICKLETOWN",
+      "description": "Are you looking for an energy-efficient corner house, close to shopping center then a visit to this house is definitely worth it! This maintenance-friendly house with garage, storage and garden is located on 224 m².",
+      "price": 240.0,
+      "expired": true
+    }
+  ]
+}
